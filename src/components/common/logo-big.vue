@@ -30,7 +30,7 @@
             <circle id="Ellipse 24" cx="54" cy="936" r="13" fill="#272727" />
             <circle id="Ellipse 29" cx="54" cy="936" r="13" fill="#272727" />
           </g>
-          <g id="Frame 18">
+          <!-- <g id="Frame 18">
             <g id="Frame 12">
               <circle
                 id="Ellipse 28_2"
@@ -55,7 +55,7 @@
                 r="13"
                 fill="#272727"
               />
-            </g>
+            </g> -->
           </g>
         </g>
         <g id="ring-2">
