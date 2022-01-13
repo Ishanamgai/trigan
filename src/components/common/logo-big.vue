@@ -78,14 +78,14 @@
             <circle id="Ellipse 27" cx="277" cy="887" r="4" fill="#272727" />
           </g>
           <g id="Frame 15">
-            <circle
+            <!-- <circle
               id="Ellipse 25_2"
               cx="660"
               cy="229"
               r="8.5"
               fill="#E4DACD"
               stroke="#272727"
-            />
+            /> -->
             <circle id="Ellipse 27_2" cx="660" cy="229" r="4" fill="#272727" />
           </g>
           <g id="Frame 11">
