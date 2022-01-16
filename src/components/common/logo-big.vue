@@ -66,7 +66,7 @@
             r="447.5"
             stroke="#272727"
           />
-          <g id="Frame 10">
+          <!-- <g id="Frame 10">
             <circle
               id="Ellipse 25"
               cx="277"
@@ -76,7 +76,7 @@
               stroke="#272727"
             />
             <circle id="Ellipse 27" cx="277" cy="887" r="4" fill="#272727" />
-          </g>
+          </g> -->
           <g id="Frame 15">
             <circle
               id="Ellipse 25_2"
