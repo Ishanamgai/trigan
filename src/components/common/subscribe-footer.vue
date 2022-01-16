@@ -36,7 +36,7 @@
         placeholder="Name"
         required
       />
-      <!-- <input
+      <input
         class="
           w-full
           h-12
@@ -55,7 +55,7 @@
         type="email"
         placeholder="Email"
         required
-      /> -->
+      />
       <button
         class="
           block
