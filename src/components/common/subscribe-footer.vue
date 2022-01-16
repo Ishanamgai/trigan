@@ -56,7 +56,7 @@
         placeholder="Email"
         required
       />
-      <!-- <button
+      <button
         class="
           block
           w-full
@@ -71,7 +71,7 @@
         type="submit"
       >
         Subscribe
-      </button> -->
+      </button>
     </form>
   </div>
 </template>
