@@ -15,7 +15,7 @@
     <img src="@/assets/svg/circle_2.svg" alt="" />
     <img src="@/assets/svg/circle_3.svg" alt="" />
     <img src="@/assets/svg/logo.svg" alt="" /> -->
-    <logo-big />
+    <!-- <logo-big />
     <div class="2xl:mb-24 mb-14 relative">
       <button
         class="
@@ -34,7 +34,7 @@
       >
         Scroll down
       </button>
-    </div>
+    </div> -->
   </div>
 </template>
 
