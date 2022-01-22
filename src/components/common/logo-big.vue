@@ -41,7 +41,7 @@
                 stroke="#272727"
                 stroke-dasharray="8 8"
               />
-              <!-- <circle
+              <circle
                 id="Ellipse 24_2"
                 cx="1236"
                 cy="311"
@@ -54,7 +54,7 @@
                 cy="311"
                 r="13"
                 fill="#272727"
-              /> -->
+              />
             </g>
           </g>
         </g>
