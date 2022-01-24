@@ -13,13 +13,13 @@
       pt-10
     "
   >
-    <div class="px-2">
+    <!-- <div class="px-2">
       <a class="md:mx-8 mx-3" href="#about"> About Us </a>
       <a class="md:mx-8 mx-3" href="#project"> Project </a>
       <a class="md:mx-8 mx-3" href="#partner"> Partner </a>
       <a class="md:mx-8 mx-3" href="#roadMap"> Road Map </a>
       <a class="md:mx-8 mx-3" href="#contact"> Contact </a>
-    </div>
+    </div> -->
   </nav>
 </template>
 
