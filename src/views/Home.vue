@@ -11,7 +11,7 @@
 <script>
 import Hero from "../components/home/hero.vue";
 import About from "../components/home/about.vue";
-// import Project from "../components/home/project.vue";
+import Project from "../components/home/project.vue";
 import Partner from "../components/home/partner.vue";
 import RoadMap from "../components/home/road-map.vue";
 export default {
